@@ -1,6 +1,6 @@
 {
   "name": "@hippy/hippy-vue-devtools-plugin",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "> support vue devtools in hippy",
   "author": "chestershen <chestershen@tencent.com>",
   "homepage": "https://github.com/hippy-contrib/hippy-vue-devtools/tree/main/packages/hippy-vue-devtools-plugin#readme",
